@@ -1,7 +1,7 @@
 # The Ultimate Web3 Security Researcher Roadmap
 An updated (by 2024) roadmap to help you become a successful Web3 security researcher with [Solidity](https://docs.soliditylang.org/)
 
-1. Read the [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) book and [EVM from Scratch](https://evm-from-scratch.xyz/) website
+1. Read the [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) book and the [EVM from Scratch](https://evm-from-scratch.xyz/) website
 2. Watch all of the [playlists](https://www.youtube.com/@smartcontractprogrammer/playlists) by [Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer)
 3. Complete all of the courses in [Cyfrin Updraft](updraft.cyfrin.io)
 4. Complete [Secureum Mindmap](https://github.com/x676f64/secureum-mind_map) and [SunWeb3Sec](https://github.com/SunWeb3Sec) repos ([DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs), [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) and [DeFiLabs](https://github.com/SunWeb3Sec/DeFiLabs))
